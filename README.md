@@ -20,5 +20,5 @@ To use RUPG, follow these simple steps:
    Open the index.html file in your preferred web browser.
 
 
-### That's it! You're now ready to use RUPG and explore dynamically generated profiles filled with diverse content. Enjoy creating and experiencing random user pages!
+#### That's it! You're now ready to use RUPG and explore dynamically generated profiles filled with diverse content. Enjoy creating and experiencing random user pages!
 
