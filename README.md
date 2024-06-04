@@ -8,18 +8,17 @@ To use RUPG, follow these simple steps:
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/RawabyRahal/Tweeter.git
+   git clone https://github.com/RawabyRahal/Random-User-Page-Generator.git
 
 2. Navigate to the project directory:
    
    ```bash
-   cd tweeter
+   cd Random-User-Page-Generator
 
 3. Open the HTML file:
    Navigate to the public folder.
    Open the index.html file in your preferred web browser.
 
-Clone the repository and open `index.html` in your web browser.
 
-```bashgit clone https://github.com/your-username/rupg-app.git
-cd rupg-app
+### That's it! You're now ready to use RUPG and explore dynamically generated profiles filled with diverse content. Enjoy creating and experiencing random user pages!
+
