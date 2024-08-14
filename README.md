@@ -4,7 +4,7 @@ RUPG (Random-User-Page-Generator) is essentially a Facebook profile page, filled
 
 <br>
 
-### Technologies Used
+### ⚙️ Technologies Used
 
    #### Frontend
    - **HTML (Hypertext Markup Language):** Used for structuring the content of web pages.
