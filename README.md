@@ -14,7 +14,7 @@ RUPG (Random-User-Page-Generator) is essentially a Facebook profile page, filled
 #### Storage
 - **LocalStorage:** A web storage API that allows data to be stored locally within the user's browser.
 
-### Installation
+### 🛠️ Installation
 To use RUPG, follow these simple steps:
 
 1. **Clone the repository**:
