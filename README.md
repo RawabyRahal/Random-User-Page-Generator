@@ -28,7 +28,7 @@ To use RUPG, follow these simple steps:
    cd Random-User-Page-Generator
 
 3. Open the HTML file:
-   Navigate to the public folder.
+   navigate to the public folder.
    Open the index.html file in your preferred web browser.
 
 
