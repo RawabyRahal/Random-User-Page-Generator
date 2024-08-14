@@ -9,10 +9,10 @@ RUPG (Random-User-Page-Generator) is essentially a Facebook profile page, filled
 - **CSS (Cascading Style Sheets):** Used for styling the visual presentation of the application.
 - **JavaScript:** A programming language used for adding interactivity and behavior to web pages.
 
-### Storage
+#### Storage
 - **LocalStorage:** A web storage API that allows data to be stored locally within the user's browser.
 
-## Installation
+### Installation
 To use RUPG, follow these simple steps:
 
 1. **Clone the repository**:
