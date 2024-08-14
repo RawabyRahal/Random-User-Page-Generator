@@ -1,6 +1,7 @@
 # RUPG App
 
 RUPG (Random-User-Page-Generator) is essentially a Facebook profile page, filled with content taken from APIs and generated with different data at the click of a button.
+
 <br>
 
 ### Technologies Used
